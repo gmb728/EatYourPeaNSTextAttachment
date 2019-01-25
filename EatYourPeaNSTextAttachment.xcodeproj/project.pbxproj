@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD83221D21F9D8E500511152 /* I don't like peas.mov in Resources */ = {isa = PBXBuildFile; fileRef = DD83221C21F9D8E500511152 /* I don't like peas.mov */; };
 		DDB6324E21F98DFF0014F3B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB6324D21F98DFF0014F3B6 /* AppDelegate.swift */; };
 		DDB6325021F98DFF0014F3B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB6324F21F98DFF0014F3B6 /* ViewController.swift */; };
 		DDB6325321F98DFF0014F3B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDB6325121F98DFF0014F3B6 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DD83221C21F9D8E500511152 /* I don't like peas.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; name = "I don't like peas.mov"; path = "../../../Desktop/I don't like peas.mov"; sourceTree = "<group>"; };
 		DDB6324A21F98DFF0014F3B6 /* EatYourPeaNSTextAttachment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EatYourPeaNSTextAttachment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDB6324D21F98DFF0014F3B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDB6324F21F98DFF0014F3B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				DDB6324F21F98DFF0014F3B6 /* ViewController.swift */,
 				DDB6325121F98DFF0014F3B6 /* Main.storyboard */,
 				DDB6325421F98E010014F3B6 /* Assets.xcassets */,
+				DD83221C21F9D8E500511152 /* I don't like peas.mov */,
 				DDB6325621F98E010014F3B6 /* LaunchScreen.storyboard */,
 				DDB6325921F98E010014F3B6 /* Info.plist */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD83221D21F9D8E500511152 /* I don't like peas.mov in Resources */,
 				DDB6325821F98E010014F3B6 /* LaunchScreen.storyboard in Resources */,
 				DDB6325521F98E010014F3B6 /* Assets.xcassets in Resources */,
 				DDB6325321F98DFF0014F3B6 /* Main.storyboard in Resources */,
